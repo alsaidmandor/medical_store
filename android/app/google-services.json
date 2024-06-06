@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91475247893",
+    "project_id": "medical-store-32b5b",
+    "storage_bucket": "medical-store-32b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91475247893:android:4e4bf3c39780a31822df1c",
+        "android_client_info": {
+          "package_name": "com.example.medical_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6c91PqrMq_738Ej3TKcZxOk43EMIrNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
